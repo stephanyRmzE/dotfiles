@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stephany_re@hotmail.com
+	name = stephany ramirez
